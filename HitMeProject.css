@@ -1,0 +1,30 @@
+
+#img1{
+    position: relative;
+    bottom:120px;
+}
+button{
+   position: relative;
+    bottom: 190px;
+    background-color: burlywood;
+}
+#hit{
+position: relative;
+right: 140px;
+top: 120px;
+color: gray;
+}
+#me{
+    position: relative;
+    left: 130px;
+    top: 55px;
+    color: gray;
+}
+#score,#time{
+    position: relative;
+    bottom: 70px;
+}
+#msg{
+    position: relative;
+    top: 150px;
+}
